@@ -1,7 +1,7 @@
 #### Hello World! 🤖
 
 
-A good database design is crucial for a high-performance application. Just like you wouldn't start building a house without the benefit of a blueprint, you need to think about how your data will be stored beforehand. Taking the time to design a database saves time and frustration later, and a well-designed database ensures ease of access and retrieval of information. While choosing a design, a lot of considerations must be accounted for. process, store, and organize data in an efficient way. structure data through normalization and present your data with views. Manage your database, using a variety of datasets.
+A good database design is crucial for a high-performance application. Just like you wouldn't start building a house without the benefit of a blueprint, you need to think about how your data will be stored beforehand. Taking the time to design a database saves time and frustration later, and a well-designed database ensures ease of access and retrieval of information. While choosing a design, a lot of considerations must be accounted for. process, store, and organize data in an efficient way. structure data through normalization and present your data with views.
 
 ![Working together](https://drive.google.com/uc?export=view&id=1zGtKE5C-CQNBWPMpDOMKNX88g8x-2Ur7)
 
